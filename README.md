@@ -7,9 +7,8 @@ The **Employee Monitoring System** is a web-based platform designed to help orga
 
 - 🧑‍💼 Employee login and dashboard
 - 🕒 Attendance and working hours tracking
-- 📊 Activity monitoring (e.g., app/website usage or manual input)
-- 📅 Daily, weekly, and monthly reports for admins
-- 🔒 Role-based access control (Admin and Employee)
+- 📊 Activity monitoring 
+- 📅 Daily reports for admins
 - 📁 Secure data storage and management
 
 ## 🛠️ Tech Stack
