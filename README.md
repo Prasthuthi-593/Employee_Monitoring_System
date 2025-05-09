@@ -86,7 +86,6 @@ python posture.py
 
 =======
 ## 📬 Email Configuration 
->>>>>>> d2893ca2bbb79b7bd0b361e9de0ff40386f753b7
 
 Update the email credentials in `posture.py` and `employees.py`:
 
