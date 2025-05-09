@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ---
 
-<<<<<<< HEAD
+
 ## Clone the Repository (or Download Files)
 
 If hosted on GitHub:
@@ -27,9 +27,6 @@ If hosted on GitHub:
 ```bash
 git clone https://github.com/Prasthuthi-593/Employee_Monitoring_System.git
 
-
-=======
->>>>>>> d2893ca2bbb79b7bd0b361e9de0ff40386f753b7
 ## 📁 Step 1: Choose Your Project Directory and Open Terminal
 
 1. Select the directory where you want to install the Employee Monitoring project.  
@@ -87,10 +84,6 @@ python posture.py
 📸 This opens a webcam feed and shows posture alerts with live feedback.  
 📧 Email alerts will be sent for any posture violations.
 
----
-
-<<<<<<< HEAD
-## 📬 Email Configuration (Optional)
 =======
 ## 📬 Email Configuration 
 >>>>>>> d2893ca2bbb79b7bd0b361e9de0ff40386f753b7
@@ -102,8 +95,3 @@ EMAIL_ADDRESS = "your_email@gmail.com"
 EMAIL_PASSWORD = "your_app_password"  # Use Gmail App Password
 OWNER_EMAIL = "admin_email@example.com"
 ```
-
-<<<<<<< HEAD
-=======
-
->>>>>>> d2893ca2bbb79b7bd0b361e9de0ff40386f753b7
