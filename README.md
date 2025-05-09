@@ -78,7 +78,7 @@ python posture.py
 
 ---
 
-## 📬 Email Configuration (Optional)
+## 📬 Email Configuration 
 
 Update the email credentials in `posture.py` and `employees.py`:
 
