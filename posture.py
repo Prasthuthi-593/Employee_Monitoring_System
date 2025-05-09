@@ -17,7 +17,7 @@ landmark_predictor = dlib.shape_predictor("shape_predictor_68_face_landmarks.dat
 
 # Email Credentials
 EMAIL_ADDRESS = "prasthuthi593@gmail.com"
-EMAIL_PASSWORD = "zzzw lgxz viuz emgf"  # Use Gmail App Password
+EMAIL_PASSWORD = "abcd ddhd kurh"  # Use Gmail App Password
 OWNER_EMAIL = "prasthuthi2003@gmail.com"
 
 login_time = "15:00"
