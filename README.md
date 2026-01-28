@@ -94,3 +94,4 @@ EMAIL_ADDRESS = "your_email@gmail.com"
 EMAIL_PASSWORD = "your_app_password"  # Use Gmail App Password
 OWNER_EMAIL = "admin_email@example.com"
 ```
+
